@@ -1,12 +1,11 @@
-# data-science-ai-ml-projects
-# 📚 Course Projects Portfolio
+# 📚 AI&ML and Data-Science Projects Portfolio
 *Post Graduate Program in Artificial Intelligence and Machine Learning: Business Applications*  
 *By Rahul Ganbote*
 
 ---
 
 ## 🗞️ Article Categorization
-**Course:** Introduction to Natural Language Processing
+**Course:** Introduction to Natural Language Processing and LLM
 
 **Description:**  
 Developed an article categorization system to classify articles into labels such as Sports, Business, Politics, and more.
